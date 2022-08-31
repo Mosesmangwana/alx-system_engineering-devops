@@ -1,1 +1,1 @@
-displays the content of the file
+displays the list of your current directory
